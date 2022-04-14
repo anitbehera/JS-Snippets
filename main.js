@@ -150,3 +150,4 @@ console.log(flatten(arr));
 
 
 //what is debouncing
+//Object.freeze() vs const
