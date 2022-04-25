@@ -75,7 +75,7 @@ let nums = [1, 2, 2, 3];
 console.log(new Set(nums)); // Converts into set
 console.log([...new Set(nums)]); // Convets set into array
 
-//IFFE
+//IIFE
 let func = function(){
     if(true){
         var a = 10;
