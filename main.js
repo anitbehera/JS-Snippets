@@ -1,6 +1,14 @@
 // Closures 
 // Advantages
 // Data hiding, encapsulation
+
+function a(){
+//dev1 feature
+}
+function a(){
+//dev2 feature
+}
+
 function outer(b){
     let a = 10;
     function inner(){
