@@ -5,7 +5,7 @@
 function a(){
 //dev1 feature
 }
-function a(){
+function b(){
 //dev2 feature
 }
 
